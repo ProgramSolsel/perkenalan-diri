@@ -1,0 +1,16 @@
+.judul {
+    text-align: center;
+}
+
+.profil {
+    float: left;
+    margin-right: 10px;
+}
+
+table {
+    width: 50;
+}
+
+th {
+    width: 50px;
+}
